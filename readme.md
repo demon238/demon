@@ -59,3 +59,11 @@ $$
 ![alt text](image.png)
 直接复制也行？这是什么原理
 ![222](IMG_0912.jpg)
+<img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" width=1000 heighth=1000>
+<img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" style="zoom:50%">
+<img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" align='right' style="zoom:50%">
+
+
+
+
+
