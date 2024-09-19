@@ -19,24 +19,27 @@ $\beta \times 6 \geq 30 $ 注释
 $$
 \int_{1}^{2}{4\alpha^2}dx{看不懂的积分抄下来试试}
 $$
-斜体
-*这是斜体？这也不斜啊*
+
+-斜体
+---
+-*这是斜体？这也不斜啊*        
 
 **粗体 这确实是有点粗**
 这是分隔符
 ---
 ## 继续
-表格
+**表格**
 -
 |一|二|三|四|五|
 |-|-|-|-|-|
 ||大英||创新理论||
 |高数|高数|||计算机导论
 ------------------------未完待续
-分点
-1.
-2.
-3.
+
+**分点****
+- 1.
+- 2.
+- 3.
 
 - 第一
 - 第二
@@ -44,11 +47,7 @@ $$
 * 第四
 
 
-图片插入
-
-<img src="file:///C:/Users/qiush\Pictures\9ecc41cb3vd2b1938c8ed7842914b123.jpg">
-
-![图片描述](C:/Users/qiush\Pictures\9ecc41cb3vd2b1938c8ed7842914b123.jpg)
+**图片插入**
 
 ![111](https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg)终于成功了啊
 我老婆
@@ -62,7 +61,16 @@ $$
 <img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" width=1000 heighth=1000>
 <img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" style="zoom:50%">
 <img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" align='right' style="zoom:50%">
+<img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" align='rleft' style="zoom:50%">  
 
+**待办**
+- [ ] test2
+- [ ] test4
+------
+
+
+
+ 
 
 
 
