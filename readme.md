@@ -22,9 +22,15 @@ $$
 
 -斜体
 ---
--*这是斜体？这也不斜啊*        
+-*这是斜体？这也不斜啊*        _xie ti_
 
-**粗体 这确实是有点粗**
+**粗体 这确实是有点粗**       __cu ti__
+***粗斜体***                 ___cu xie ti__
+# **强调**
+<u>一些内容</u>
+~~内容~~
+<font color="red">bian se</font>
+***
 这是分隔符
 ---
 ## 继续
@@ -57,7 +63,6 @@ $$
 
 ![alt text](image.png)
 直接复制也行？这是什么原理
-![222](IMG_0912.jpg)
 <img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" width=1000 heighth=1000>
 <img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" style="zoom:50%">
 <img src="https://c-ssl.duitang.com/uploads/blog/202103/27/20210327131203_74b6b.jpg" align='right' style="zoom:50%">
@@ -66,7 +71,17 @@ $$
 **待办**
 - [ ] test2
 - [ ] test4
-------
+***
+# 链接
+[超链接](https://www.douyin.com/?recommend=1)
+[锚点](#强调)
+脚注[^test]
+
+[^test]: 脚注说明https://www.douyin.com/?recommend=1
+
+
+
+
 
 
 
